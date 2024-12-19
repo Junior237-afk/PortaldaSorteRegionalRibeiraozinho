@@ -1,5 +1,4 @@
-# PortaldaSorteRegionalRibeiraozinho
- Site Portal da Sorte
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
