@@ -11,7 +11,7 @@ function comprar(event, button) {
 
     // Codifica a mensagem
     var mensagemCodificada = encodeURIComponent(mensagem); 
-    
+
 
     // Monta a URL para o WhatsApp
     var linkWhatsApp = "https://wa.me/" + numeroWhatsApp + "?text=" + mensagemCodificada;

@@ -4,7 +4,7 @@ function comprar(event, button) {
     event.preventDefault(); // Evita que o link recarregue a página
     var numeroWhatsApp = "5599988557664";  // Substitua pelo seu número de WhatsApp
     var numeroCartela = button.getAttribute("data-numero");  // Pega a numeração da cartela clicada
-    var mensagem = "Oi, gostaria de comprar uma cartela dupla chance, de número " + numeroCartela;
+    var mensagem = "Oi, gostaria de comprar uma cartela, de número " + numeroCartela;
     
 
     // Codifica a mensagem
