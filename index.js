@@ -1,5 +1,5 @@
 
-      alert("Para você verificar os ganhadores que eu ja fiz, clique em Status da Revendedora! ");
+      alert(" Site disponivel para compra apartir do dia 08/01(Quarta-Feira). ");
 
       /*let nome = window.prompt("Qual o seu nome?");
 
