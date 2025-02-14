@@ -1,5 +1,5 @@
 
-      alert(" Site disponivel para compra apartir do dia 08/01(Quarta-Feira). ");
+      alert(" Site Indisponivel para compra! ");
 
       /*let nome = window.prompt("Qual o seu nome?");
 
