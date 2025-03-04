@@ -1,5 +1,5 @@
 
-      alert(" Site Indisponivel para compra! ");
+      alert(" Site disponivel para compra! ");
 
       /*let nome = window.prompt("Qual o seu nome?");
 
